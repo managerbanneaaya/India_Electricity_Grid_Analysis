@@ -74,12 +74,3 @@ India_Electricity_Grid_Analysis/
 * Residual diagnostics
 * Feature importance
 
----
-
-## 📌 Future Improvements
-
-* Add weather data
-* Use advanced models (LightGBM, LSTM)
-* Deploy as API/dashboard
-
-
