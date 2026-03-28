@@ -44,17 +44,6 @@ This project analyzes electricity generation data to understand the relationship
 
 ---
 
-## 📈 Model Performance
-
-| Dataset            | R²     | RMSE |
-| ------------------ | ------ | ---- |
-| Train              | ~0.99  | ~7   |
-| Test               | ~0.99  | ~6   |
-| Unseen Data (2023) | ~0.989 | ~5.4 |
-
-✔ Strong generalization across time
-
----
 
 ## 🔍 Model Diagnostics
 
@@ -68,26 +57,15 @@ This project analyzes electricity generation data to understand the relationship
 ## 📂 Project Structure
 
 ```
-carbon-emission-analysis/
+India_Electricity_Grid_Analysis/
 │
-├── data/
 ├── notebooks/
-├── plots/
 ├── models/
+├── report/
 ├── README.md
-├── requirements.txt
-└── .gitignore
-```
 
----
 
-## 🚀 How to Run
 
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 📊 Visualizations
 
