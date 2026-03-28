@@ -98,27 +98,10 @@ pip install -r requirements.txt
 
 ---
 
-## 🔥 Key Learning
-
-* Importance of feature engineering
-* Avoiding data leakage
-* Time-based validation
-* Residual analysis for model improvement
-
----
-
 ## 📌 Future Improvements
 
 * Add weather data
 * Use advanced models (LightGBM, LSTM)
 * Deploy as API/dashboard
 
----
 
-## 👨‍💻 Author
-
-**Abhishek Gabhane**
-
----
-
-## ⭐ If you like this project, give it a star!
