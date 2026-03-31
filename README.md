@@ -1,14 +1,14 @@
 # India_Electricity_Grid_Analysis
 Carbon Emission Analysis &amp; Prediction using Machine Learning (XGBoost, Linear Regression) and energy mix insights.
-# 🌍 Carbon Emission Analysis & Prediction
+#  Carbon Emission Analysis & Prediction
 
-## 📌 Overview
+##  Overview
 
 This project analyzes electricity generation data to understand the relationship between energy sources and carbon emissions. It also builds machine learning models to predict carbon intensity based on load and generation mix.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze hourly, monthly, and seasonal emission patterns
 * Understand the impact of energy mix on carbon intensity
@@ -17,7 +17,7 @@ This project analyzes electricity generation data to understand the relationship
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 * Renewable energy (solar, hydro) significantly reduces carbon emissions
 * Carbon intensity is driven more by **energy mix** than total load
@@ -26,7 +26,7 @@ This project analyzes electricity generation data to understand the relationship
 
 ---
 
-## 🧠 Features Used
+##  Features Used
 
 * Hour
 * Total Load (MW)
@@ -37,7 +37,7 @@ This project analyzes electricity generation data to understand the relationship
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 
 * Linear Regression (baseline)
 * XGBoost (final model)
@@ -45,7 +45,7 @@ This project analyzes electricity generation data to understand the relationship
 ---
 
 
-## 🔍 Model Diagnostics
+##  Model Diagnostics
 
 * Residuals centered around zero
 * No autocorrelation (validated)
@@ -54,7 +54,7 @@ This project analyzes electricity generation data to understand the relationship
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 India_Electricity_Grid_Analysis/
