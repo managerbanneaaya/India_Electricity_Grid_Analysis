@@ -67,7 +67,7 @@ India_Electricity_Grid_Analysis/
 
 
 
-## 📊 Visualizations
+##  Visualizations
 
 * Hourly load vs carbon intensity
 * Generation mix analysis
